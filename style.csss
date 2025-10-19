@@ -1,0 +1,27 @@
+*{
+  margin:0px;
+  padding:5px;
+  box-sizing:border-sizing;
+  text-algin:center;
+  font-family: Segoe UI;}
+
+body{
+  background:lightblue;
+  color:black;
+}
+table{
+  border:solid;
+  position:center;  
+}
+th{
+  color:black;
+  
+}
+nav {
+  margin:0px;
+  padding:5px;
+  display:flix;
+  width:80px;
+  top:0px;
+}
+th,td{border:1px solid}
